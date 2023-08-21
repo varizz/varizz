@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Name is Vadel Rizky and I'm just learning to be a Web Developer 
+My Name is Vadel Rizky and I'm just learning to be a Web Developer 🌏
 
 ### About Me
 - 🌱 I’m currently learning Basic Web Developer Program Language like CSS, Javascript ⌨️
